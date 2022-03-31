@@ -26,3 +26,11 @@ El titulo es Predicta Investment Return.
 El tipo es Time Serie Forecasting.
 
 El objetivo central es realizar predicciones en referente al mercado de datos.
+
+
+A continuacion adjunto imagenes para la comprobación del Maching Learninig.
+
+<img width="1280" alt="Captura de pantalla 2022-03-31 a las 9 59 56" src="https://user-images.githubusercontent.com/91721496/161008484-b2adc3a7-cbaf-477a-b666-ef437ed85afa.png">
+<img width="1280" alt="Captura de pantalla 2022-03-31 a las 10 00 09" src="https://user-images.githubusercontent.com/91721496/161008495-9d1d2e49-d279-4653-8cb8-bd772debcaab.png">
+
+
